@@ -1,0 +1,12 @@
+# Build output
+*.app/
+*.app.zip
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+build/
+DerivedData/
