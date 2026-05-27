@@ -35,7 +35,7 @@ xcode-select --install  # 如果尚未安装
 然后：
 
 ```bash
-git clone https://github.com/caiyuyuan/PDFMerger.git
+git clone https://github.com/kanseaveg/PDFMerger.git
 cd PDFMerger
 bash build.sh
 open PDF合并工具.app
